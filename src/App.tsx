@@ -927,9 +927,11 @@ export default function App() {
         <div className="max-w-5xl mx-auto px-4 mb-8">
           <div className="bg-white/5 border border-dashed border-white/10 rounded-xl p-4 text-center select-none">
             <p className="text-[10px] font-mono tracking-widest text-white/30 uppercase">SPONSORED PROMOTIONAL LINK</p>
-            <p className="text-xs text-white/50 mt-1">
+            <p className="text-xs text-white/50 mt-1 mb-4">
               Want to auto-publish your content across 8 social platforms with one click? Check our upcoming partner integrations.
             </p>
+            {/* Adsterra Native Banner Script */}
+            <div dangerouslySetInnerHTML={{ __html: '<script src="https://effectivecpmnetwork.com" async></script>' }} />
           </div>
         </div>
         
