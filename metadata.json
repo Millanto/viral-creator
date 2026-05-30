@@ -1,0 +1,6 @@
+{
+  "name": "Millanto",
+  "description": "Millanto: A high-performance analytics hub featuring TikTok growth calculators, YouTube Shorts RPM predictors, Instagram Reels virality metrics, and professional sponsor invoice generators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
