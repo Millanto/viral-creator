@@ -262,7 +262,7 @@ export default function App() {
             <div>
               <div className="flex items-center gap-2">
                 <h1 className="text-2xl font-black tracking-tight text-white">
-                  Viral Creator Analytics Hub
+                  Free Social Media Creator Analytics & Revenue Hub
                 </h1>
                 <span className="bg-gradient-to-r from-pink-500 to-violet-500 text-[10px] uppercase font-mono px-2 py-0.5 rounded-full font-bold tracking-wider">
                   Live V2.5
@@ -936,7 +936,7 @@ export default function App() {
         </div>
         
         <p className="text-[11px] text-white/30 font-mono uppercase tracking-widest">
-          Viral Creator Analytics Hub © 2026. All analytics mapped instantly to core algorithm matrices.
+          Social Media Money Calculator Hub © 2026. All analytics mapped instantly to core algorithm matrices.
         </p>
       </footer>
     </div>
